@@ -1,0 +1,22 @@
+<?php
+	$lang["warehouse"] 						= "Warehouse";
+	$lang["success"] 						= "Success";
+	$lang["warning"] 						= "Warning";
+	$lang["provider"] 						= "Provider";
+	$lang["name"] 							= "Name";
+	$lang["street"] 						= "Street";
+	$lang["exterior"] 						= "ExtStreet number";
+	$lang["interior"] 						= "InStreet number";
+	$lang["colonia"] 						= "Complementary info";
+	$lang["city"] 							= "city";
+	$lang["zipcode"] 						= "Zipe code";
+	$lang["phonenumber"] 					= "Phone number";
+	$lang["email"] 							= "E-Mail";
+	$lang["state"] 							= "state";
+	$lang["edit"] 							= "Edit";
+	$lang["delete"] 						= "Delete";
+	$lang["save"] 							= "Save";
+	$lang["cancel"] 						= "Cancel";
+	$lang["question"] 						= "Question";
+	$lang["delete_question"] 				= "Are you sure?";
+	$lang["ok"] 							= "OK";
